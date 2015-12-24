@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '136320332:AAGICzlKojc17xJhkxqkAXuZq3J4WKUqv3A',
 	google_api_key = '',
 	google_cse_key = '',
 	lastfm_api_key = '',
@@ -8,15 +8,12 @@ return {
 	thecatapi_key = '',
 	time_offset = 0,
 	lang = 'en',
-	admin = 00000000,
-	admin_name = 'John Smith',
+	admin = 153730093,
+	admin_name = 'RaHa JoN',
 	about_text = [[
-I am otouto, the plugin-wielding, multi-purpose Telegram bot written by topkecleon.
-
-Send /help to get started.
-
-Join my channel for news about updates!
-telegram.me/otouto
+Salam
+Man RaHa JoN hastam
+Ye robate ali va bahal 
 ]]	,
 	errors = {
 		connection = 'Connection error.',
