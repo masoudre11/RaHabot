@@ -6,8 +6,8 @@ return {
 	owm_api_key = '',
 	biblia_api_key = '',
 	thecatapi_key = '',
-	time_offset = 0,
-	lang = 'en',
+	time_offset = +03:30,
+	lang = 'fa',
 	admin = 153730093,
 	admin_name = 'RaHa JoN',
 	about_text = [[
