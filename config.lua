@@ -8,7 +8,7 @@ return {
 	thecatapi_key = '',
 	time_offset = +03:30,
 	lang = 'fa',
-	admin = 153730093,163543039,
+	admin = 153730093,163543039,165677865,
 	admin_name = 'RaHa JoN',
 	about_text = [[
 Salam
