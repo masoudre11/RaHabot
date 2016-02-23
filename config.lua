@@ -1,5 +1,5 @@
 return {
-	bot_api_key = '136320332:AAGICzlKojc17xJhkxqkAXuZq3J4WKUqv3A',
+	bot_api_key = '191561208:AAEjWeD5A20axi5rcyTNNOUVwInQDiwDI_E',
 	google_api_key = '',
 	google_cse_key = '',
 	lastfm_api_key = '',
@@ -8,7 +8,7 @@ return {
 	thecatapi_key = '',
 	time_offset = +03:30,
 	lang = 'fa',
-	admin = 153730093,163543039,165677865,
+	admin = 158788916,
 	admin_name = 'RaHa JoN',
 	about_text = [[
 Salam
@@ -55,9 +55,9 @@ Ye robate ali va bahal
 	},
 	moderation = {
 		admins = {
-			['00000000'] = 'You'
+			['158788916'] = 'You'
 		},
-		admin_group = -00000000,
+		admin_group = -134571814,
 		realm_name = 'My Realm'
 	},
 	plugins = {
